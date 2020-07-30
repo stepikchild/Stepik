@@ -14,3 +14,4 @@ y = calc(browser.find_element_by_id("input_value").text)
 print(y)
 browser.find_element_by_id("answer").send_keys(y)
 browser.find_element_by_id("solve").click()
+# Добавил в репозиторий GitHub
